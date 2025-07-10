@@ -1,4 +1,4 @@
 #EXTM3U
-# Customer 001 IPTV - Expires July 31, 2025
+# Customer 002 IPTV - Expires July 31, 2025
 #EXTINF:-1 tvg-name="Main IPTV Playlist" group-title="Global",Main IPTV
 https://iptv-org.github.io/iptv/index.m3u

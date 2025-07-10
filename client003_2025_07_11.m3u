@@ -1,4 +1,31 @@
 #EXTM3U
-# Customer 003 IPTV - Expires 11 July 2025
-#EXTINF:-1 tvg-name="Main IPTV Playlist" group-title="Global",Main IPTV
-https://iptv-org.github.io/iptv/index.m3u
+#EXTM3U
+
+#EXTINF:-1 tvg-name="France 24" group-title="News",France 24 (EN)
+https://live.france24.com/en/live.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera English" group-title="News",Al Jazeera (EN)
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-name="NHK World Japan" group-title="News",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-name="DW News" group-title="News",DW News (EN)
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124556/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-name="NASA TV" group-title="Science",NASA TV
+https://www.nasa.gov/media/nasatv/NTV-Public-IPS.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg Europe" group-title="Business",Bloomberg Europe
+https://bloomberg-eur.live.simplestreamcdn.com/bloomberg-eur/bloomberg-eur/index.m3u8
+
+#EXTINF:-1 tvg-name="Arirang" group-title="Culture",Arirang World
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TRT World" group-title="News",TRT World
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="CGTN" group-title="News",CGTN English
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-
